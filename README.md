@@ -3,6 +3,7 @@
 
 - :office: &nbsp;I'm currently a student at **ENSAO**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 📧: &nbsp;Contact me on **ahmed.aziz@ump.ac.ma**
 
 
 <br>
