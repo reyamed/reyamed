@@ -1,7 +1,7 @@
 <h1 align="left" id="ahmedaziz-title">:wave: Hello there! I'm Ahmed AZIZ</h1>
 <h3 align="left">I am a Computer Science Engeneering student and a machine learning enthusiast</h3>
 
-- :office: &nbsp;I'm currently a student at **ENSAO**
+- :office: &nbsp;I'm currently a student at **Sup Galilée**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📧: &nbsp;Contact me on **ahmed.aziz@ump.ac.ma**
 
