@@ -99,17 +99,11 @@
   </tr>
 </table>
 
-<h2 align="left" id="ahmedaziz">Currently learning</h2>
-<i><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular"/></i>
-<i><img width="20%" src="https://spring.io/images/OG-Spring.png" alt="spring"/></i>
+<h2 align="left" id="ahmedaziz">Currently Working</h2>
+<i><img width="10%" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*du7p50wS_fIsaC_lR18qsg.png" alt="fastAPI"/></i>
+<i><img width="20%" src="https://www.sfeir.dev/content/images/size/w1304/2024/12/elk.png" alt="Elasticsearch"/></i>
 
 
-# Stats📈
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyamed&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=reyamed&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyamed&theme=highcontrast&hide_border=true" alt="#your-username" />
-</p>
 
 
 [linkedin]: https://www.linkedin.com/in/reyamed 
