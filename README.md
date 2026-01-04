@@ -99,8 +99,8 @@
   </tr>
 </table>
 
-<h2 align="left" id="ahmedaziz">Currently Working</h2>
-<i><img width="10%" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*du7p50wS_fIsaC_lR18qsg.png" alt="fastAPI"/></i>
+<h2 align="left" id="ahmedaziz">Currently Working with</h2>
+<i><img width="20%" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*du7p50wS_fIsaC_lR18qsg.png" alt="fastAPI"/></i>
 <i><img width="20%" src="https://www.sfeir.dev/content/images/size/w1304/2024/12/elk.png" alt="Elasticsearch"/></i>
 
 
