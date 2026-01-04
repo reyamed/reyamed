@@ -1,7 +1,7 @@
 <h1 align="left" id="ahmedaziz-title">:wave: Hello there! I'm Ahmed AZIZ</h1>
 <h3 align="left">I am Data Engineer</h3>
 
-- :office: &nbsp;I'm currently a Data Engineer 
+- :office: &nbsp; Data Engineer with a strong background in managing large-scale clusters and ensuring their optimal performance. Passionate about system design, with a focus on building scalable, reliable, and efficient data architectures.  
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📧: &nbsp;Contact me on **ahmed.aziz.sorbonne@gmail.com**
 
