@@ -9,8 +9,8 @@
 <br>
 <br>
 <br>
-<h2 align="left" id="ahmedaziz">Favorite Tech</h2>
-> Tools, languages, and other things that I like to work with.
+<h2 align="left" id="ahmedaziz">Tech Stack</h2>
+> Tools, languages, and other things that I use.
 
 <table align="center">
   <tr>
@@ -22,15 +22,15 @@
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
-        <img src="https://pic.clubic.com/v1/images/1501424/raw" width="48" height="48" alt="Django" />
+        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpactflow.io%2Fblog%2Fterraform%2F&ved=0CBYQjRxqFwoTCJjk_KTwhpIDFQAAAAAdAAAAABAI&opi=89978449" width="48" height="48" alt="Django" />
       </a>
-      <br>Java
+      <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fairflow.apache.org%2Fdocs%2Fapache-airflow%2F1.10.6%2F&ved=0CBYQjRxqFwoTCPCJgsHwhpIDFQAAAAAdAAAAABAX&opi=89978449" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>Airflow
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
