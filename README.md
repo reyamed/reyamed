@@ -22,33 +22,33 @@
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
-        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpactflow.io%2Fblog%2Fterraform%2F&ved=0CBYQjRxqFwoTCJjk_KTwhpIDFQAAAAAdAAAAABAI&opi=89978449" width="48" height="48" alt="Django" />
+        <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
-        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fairflow.apache.org%2Fdocs%2Fapache-airflow%2F1.10.6%2F&ved=0CBYQjRxqFwoTCPCJgsHwhpIDFQAAAAAdAAAAABAX&opi=89978449" width="48" height="48" alt="JavaScript" />
+        <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" width="48" height="48" alt="Airflow" />
       </a>
       <br>Airflow
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/64cbe56c3b962ba2928c62a1_1583389547nUU3zr9ry4.svg" width="48" height="48" alt="Elastic" />
       </a>
-      <br>TypeScript
+      <br>Elastic Stack
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://www.ovhcloud.com/sites/default/files/styles/desktop_full_width/public/2024-01/kafka.webp" width="48" height="48" alt="kafka" />
       </a>
-      <br>React JS
+      <br> Apache Kafka
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/thumbnail/integrations/OT-integrations-logo-postgre-sql.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Bootstrap
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
@@ -84,9 +84,9 @@
     </td>
     <td align="center" width="96">
       <a href="#ahmedaziz" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HP0Qss6BAQcv0UbHb21YFQ.png" width="48" height="48" alt="Gitlab ci" />
       </a>
-      <br>PHP
+      <br>Gitlab ci
     </td>
   </tr>
    <tr>
@@ -103,6 +103,8 @@
 <i><img width="20%" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*du7p50wS_fIsaC_lR18qsg.png" alt="fastAPI"/></i>
 <i><img width="20%" src="https://www.sfeir.dev/content/images/size/w1304/2024/12/elk.png" alt="Elasticsearch"/></i>
 
+<h2 align="left" id="ahmedaziz">Currently reading</h2>
+<i><img width="20%" src="https://www.oreilly.com/covers/urn:orm:book:9781491903063/300w/" alt="book"/></i>
 
 
 
